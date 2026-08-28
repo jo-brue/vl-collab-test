@@ -1,0 +1,15 @@
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\bin\Debug\net8.0\callmenames-2026-08-28Utils.deps.json
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\bin\Debug\net8.0\callmenames-2026-08-28Utils.dll
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\bin\Debug\net8.0\callmenames-2026-08-28Utils.pdb
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\bin\Debug\net8.0\callmenames-2026-08-28Utils.xml
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.csproj.AssemblyReference.cache
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.AssemblyInfoInputs.cache
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.AssemblyInfo.cs
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.csproj.CoreCompileInputs.cache
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.sourcelink.json
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.dll
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\refint\callmenames-2026-08-28Utils.dll
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.xml
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\callmenames-2026-08-28Utils.pdb
+C:\vl-collab-test\csharp\callmenames-2026-08-28Utils\obj\Debug\net8.0\ref\callmenames-2026-08-28Utils.dll

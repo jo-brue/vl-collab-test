@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:p="property" xmlns:r="reflection" Id="FeDG004hkHMLYIkZgixQqd" LanguageVersion="2025.7.3" Version="0.128">
+  <NugetDependency Id="RfA7AKOmf1COpmurT25Akj" Location="VL.CoreLib" Version="2025.7.3" />
+  <Patch Id="CkCNyTDNrZjQT2UzRShnoj">
+    <Canvas Id="E3ojLOSje63PXInB4loh3x" DefaultCategory="Main" BordersChecked="false" CanvasType="FullCategory" />
+    <!--
+
+    ************************ Application ************************
+
+-->
+    <Node Name="Application" Bounds="100,100" Id="OHqzq27y71fNGUQnNhdOSw">
+      <p:NodeReference>
+        <Choice Kind="ContainerDefinition" Name="Process" />
+        <CategoryReference Kind="Category" Name="Primitive" />
+      </p:NodeReference>
+      <Patch Id="IumFQ8VLE6wMQ4psreVnBA">
+        <Canvas Id="FCA6Nwp0TwqNT4lI6TSyTI" CanvasType="Group">
+          <Node Bounds="499,411,67,19" Id="UNTOALJJ0vnOdE5mlU0kPb">
+            <p:NodeReference LastCategoryFullName="Main.Utils" LastDependency="callmenames-2026-08-28Utils.csproj">
+              <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+              <Choice Kind="OperationCallFlag" Name="DemoNode" />
+            </p:NodeReference>
+            <Pin Id="E9BPEiEVb50NGWJYXBzlmp" Name="A" Kind="InputPin" />
+            <Pin Id="FIsJBmLXuruMUk5OvlxUBY" Name="B" Kind="InputPin" />
+            <Pin Id="CKdT0zYTwGQP3fkloSaoTp" Name="Output" Kind="OutputPin" />
+          </Node>
+        </Canvas>
+        <Patch Id="GxcxdfOrAQEPL4ZjAlduAg" Name="Create" />
+        <Patch Id="HGnvRNZl9HgPrecUyPwpM9" Name="Update" />
+        <ProcessDefinition Id="TT9ah1DfGaHOuvf9IXYslz">
+          <Fragment Id="TrVIJIwjoSgN55IibDQbe7" Patch="GxcxdfOrAQEPL4ZjAlduAg" Enabled="true" />
+          <Fragment Id="D8eiLA2pftVNoGt6vyYMhp" Patch="HGnvRNZl9HgPrecUyPwpM9" Enabled="true" />
+        </ProcessDefinition>
+      </Patch>
+    </Node>
+  </Patch>
+  <ProjectDependency Location="./csharp/callmenames-2026-08-28Utils/callmenames-2026-08-28Utils.csproj" />
+</Document>
